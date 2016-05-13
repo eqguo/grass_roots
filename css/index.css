@@ -1,0 +1,519 @@
+.version.index /* version checker */
+{
+	color: #0000F5;
+	background-color: #8DB1A6;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1494px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -2px;
+	width: 0.01px;
+}
+
+#pu271
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u271
+{
+	z-index: 3;
+	min-height: 555.75px;
+	padding-bottom: 0px;
+	background: transparent url("../images/capitalgradient.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u271_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+	padding-top: 88px;
+	padding-bottom: 142px;
+}
+
+#u278-4
+{
+	z-index: 4;
+	width: 656px;
+	min-height: 141px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 120px;
+	line-height: 144px;
+	font-family: roboto, sans-serif;
+	font-weight: 900;
+	left: 36px;
+	position: relative;
+}
+
+#u285-4
+{
+	z-index: 8;
+	width: 655px;
+	min-height: 154px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 36px;
+	line-height: 41px;
+	font-family: roboto, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	left: 38px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u271-bw
+{
+	z-index: 3;
+	min-height: 555.75px;
+}
+
+#u297-4
+{
+	z-index: 12;
+	width: 222px;
+	min-height: 79px;
+	background-color: transparent;
+	color: #494CA3;
+	text-align: center;
+	font-size: 48px;
+	line-height: 58px;
+	font-family: roboto, sans-serif;
+	font-weight: 900;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 757px;
+	left: 112px;
+}
+
+#u313-4
+{
+	z-index: 16;
+	width: 328px;
+	min-height: 88px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 24px;
+	color: #31B6D2;
+	font-size: 20px;
+	font-family: roboto, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 847px;
+	left: 59px;
+}
+
+#u320
+{
+	z-index: 20;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 516px;
+	left: 116px;
+}
+
+#u303-4
+{
+	z-index: 54;
+	width: 222px;
+	min-height: 79px;
+	background-color: transparent;
+	color: #494CA3;
+	text-align: center;
+	font-size: 48px;
+	line-height: 58px;
+	font-family: roboto, sans-serif;
+	font-weight: 900;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 757px;
+	left: 461px;
+}
+
+#u331
+{
+	z-index: 58;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 607px;
+	left: 505px;
+}
+
+#u399-4
+{
+	z-index: 59;
+	width: 328px;
+	min-height: 88px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 24px;
+	color: #31B6D2;
+	font-size: 20px;
+	font-family: roboto, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 846px;
+	left: 408px;
+}
+
+#u305-4
+{
+	z-index: 63;
+	width: 222px;
+	min-height: 79px;
+	background-color: transparent;
+	color: #494CA3;
+	text-align: center;
+	font-size: 48px;
+	line-height: 58px;
+	font-family: roboto, sans-serif;
+	font-weight: 900;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 758px;
+	left: 810px;
+}
+
+#u325
+{
+	z-index: 67;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 542px;
+	left: 837px;
+}
+
+#u400-4
+{
+	z-index: 68;
+	width: 328px;
+	min-height: 88px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 24px;
+	color: #31B6D2;
+	font-size: 20px;
+	font-family: roboto, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 847px;
+	left: 757px;
+}
+
+#u353
+{
+	z-index: 2;
+	min-height: 333px;
+	padding-bottom: 40px;
+	background: #494CA3 url("../images/chinatown.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u353_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+}
+
+#u369
+{
+	z-index: 43;
+	width: 173px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 90px;
+}
+
+#u370
+{
+	z-index: 44;
+	width: 173px;
+	height: 173px;
+	border-radius: 100px;
+	position: relative;
+	background: transparent url("../images/unnamed-ieu370-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/unnamed.jpg") no-repeat left top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u371-4
+{
+	z-index: 45;
+	width: 172px;
+	min-height: 36px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: roboto, sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	margin-left: 1px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#pu354-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	margin-left: 362px;
+}
+
+#u354-4
+{
+	z-index: 21;
+	width: 222px;
+	min-height: 56px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 48px;
+	line-height: 58px;
+	font-family: roboto, sans-serif;
+	font-weight: 900;
+	margin-left: 107px;
+	position: relative;
+}
+
+#pu366
+{
+	width: 0.01px;
+	margin-top: 21px;
+}
+
+#u366
+{
+	z-index: 37;
+	width: 173px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u367
+{
+	z-index: 38;
+	width: 173px;
+	height: 173px;
+	border-radius: 100px;
+	position: relative;
+	background: transparent url("../images/ellis.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u368-4
+{
+	z-index: 39;
+	width: 172px;
+	min-height: 36px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: roboto, sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	margin-left: 1px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u363
+{
+	z-index: 31;
+	width: 173px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 272px;
+}
+
+#u364
+{
+	z-index: 32;
+	width: 173px;
+	height: 173px;
+	border-radius: 100px;
+	position: relative;
+	background: transparent url("../images/headshot-ieu364-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/headshot.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u365-4
+{
+	z-index: 33;
+	width: 172px;
+	min-height: 36px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: roboto, sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	margin-left: 1px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u362
+{
+	z-index: 25;
+	width: 173px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 99px;
+	left: 905px;
+}
+
+#u357
+{
+	z-index: 26;
+	width: 173px;
+	height: 173px;
+	border-radius: 100px;
+	position: relative;
+	background: transparent url("../images/kaya-ieu357-fr.png") no-repeat center top;
+	background: rgba(0,0,0,0) url("../images/kaya.jpg") no-repeat center top;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u361-4
+{
+	z-index: 27;
+	width: 172px;
+	min-height: 36px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: roboto, sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	margin-left: 1px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u353-bw
+{
+	z-index: 2;
+	min-height: 333px;
+	margin-top: 79px;
+}
+
+#u396
+{
+	z-index: 49;
+	min-height: 98px;
+	background-color: #494CA3;
+	padding-bottom: 77px;
+}
+
+#u396_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+	margin-bottom: -1px;
+}
+
+#u397-4
+{
+	z-index: 50;
+	width: 665px;
+	min-height: 34px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
+	font-family: roboto, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 248px;
+}
+
+#u396-bw
+{
+	z-index: 49;
+	min-height: 98px;
+	margin-top: -1px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
