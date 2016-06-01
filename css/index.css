@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #31A744;
+	color: #000000;
+	background-color: #9C9B85;
 }
 
 .html
@@ -54,8 +54,8 @@
 	width: 656px;
 	min-height: 141px;
 	background-color: transparent;
-	line-height: 144px;
 	color: #FFFFFF;
+	line-height: 144px;
 	font-size: 120px;
 	font-family: roboto, sans-serif;
 	font-weight: 900;
@@ -69,8 +69,8 @@
 	width: 655px;
 	min-height: 154px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
+	line-height: 41px;
 	font-size: 36px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -134,9 +134,9 @@
 	min-height: 79px;
 	background-color: transparent;
 	line-height: 58px;
+	color: #494CA3;
 	text-align: center;
 	font-size: 48px;
-	color: #494CA3;
 	font-family: roboto, sans-serif;
 	font-weight: 900;
 	margin-left: 53px;
@@ -150,8 +150,8 @@
 	width: 328px;
 	min-height: 88px;
 	background-color: transparent;
-	color: #2AAFA2;
 	text-align: center;
+	color: #2AAFA2;
 	line-height: 24px;
 	font-size: 20px;
 	font-family: roboto, sans-serif;
@@ -187,9 +187,9 @@
 	min-height: 79px;
 	background-color: transparent;
 	line-height: 58px;
+	color: #494CA3;
 	text-align: center;
 	font-size: 48px;
-	color: #494CA3;
 	font-family: roboto, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -204,8 +204,8 @@
 	width: 328px;
 	min-height: 88px;
 	background-color: transparent;
-	color: #2AAFA2;
 	text-align: center;
+	color: #2AAFA2;
 	line-height: 24px;
 	font-size: 20px;
 	font-family: roboto, sans-serif;
@@ -294,9 +294,9 @@
 	min-height: 79px;
 	background-color: transparent;
 	line-height: 58px;
+	color: #494CA3;
 	text-align: center;
 	font-size: 48px;
-	color: #494CA3;
 	font-family: roboto, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -318,8 +318,8 @@
 	width: 328px;
 	min-height: 88px;
 	background-color: transparent;
-	color: #2AAFA2;
 	text-align: center;
+	color: #2AAFA2;
 	line-height: 24px;
 	font-size: 20px;
 	font-family: roboto, sans-serif;
@@ -390,8 +390,8 @@
 	width: 172px;
 	min-height: 36px;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	line-height: 22px;
 	font-size: 18px;
 	font-family: roboto, sans-serif;
@@ -431,9 +431,9 @@
 	min-height: 56px;
 	background-color: transparent;
 	line-height: 58px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 48px;
-	color: #FFFFFF;
 	font-family: roboto, sans-serif;
 	font-weight: 900;
 	margin-left: 123px;
@@ -476,8 +476,8 @@
 	width: 172px;
 	min-height: 36px;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	line-height: 22px;
 	font-size: 18px;
 	font-family: roboto, sans-serif;
@@ -524,8 +524,8 @@
 	width: 172px;
 	min-height: 36px;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	line-height: 22px;
 	font-size: 18px;
 	font-family: roboto, sans-serif;
@@ -610,8 +610,8 @@
 	width: 172px;
 	min-height: 36px;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	line-height: 22px;
 	font-size: 18px;
 	font-family: roboto, sans-serif;
@@ -705,9 +705,8 @@
 #u396
 {
 	z-index: 52;
-	min-height: 174.5999999999999px;
+	min-height: 175px;
 	background-color: #494CA3;
-	padding-bottom: 0px;
 }
 
 #u396_align_to_page
@@ -717,8 +716,8 @@
 	width: 960px;
 	position: relative;
 	left: -100px;
-	padding-top: 42px;
-	padding-bottom: 46px;
+	padding-top: 22px;
+	padding-bottom: 18px;
 	margin-bottom: -2px;
 }
 
@@ -728,8 +727,8 @@
 	width: 665px;
 	min-height: 34px;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	line-height: 36px;
 	font-size: 30px;
 	font-family: roboto, sans-serif;
@@ -745,8 +744,8 @@
 	width: 665px;
 	min-height: 34px;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	line-height: 29px;
 	font-size: 24px;
 	font-family: roboto, sans-serif;
@@ -757,10 +756,28 @@
 	position: relative;
 }
 
+#u458-4
+{
+	z-index: 129;
+	width: 665px;
+	min-height: 34px;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: roboto, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	left: 252px;
+	margin-top: 15px;
+	position: relative;
+}
+
 #u396-bw
 {
 	z-index: 52;
-	min-height: 174.5999999999999px;
+	min-height: 175px;
 	margin-top: -2px;
 }
 
