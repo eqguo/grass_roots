@@ -43,18 +43,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.Grassroots65.com/images/screenshot2-crop-u439.png</loc>
-    <lastmod>2016-06-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.Grassroots65.com/images/screenshot2-crop-u439_2x.png</loc>
-    <lastmod>2016-06-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.Grassroots65.com/images/screenshot2.png</loc>
     <lastmod>2016-06-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,6 +98,18 @@
   </url>
   <url>
     <loc>http://www.Grassroots65.com/images/kaya-u357-fr.jpg</loc>
+    <lastmod>2016-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.Grassroots65.com/images/screenshot22.png</loc>
+    <lastmod>2016-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.Grassroots65.com/images/screenshot2_2x2.png</loc>
     <lastmod>2016-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

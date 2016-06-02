@@ -1,8 +1,8 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1464800310489">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1464833043238">
   <folder name="css">
     <file name="site_global.css" crc="4091887897"/>
-    <file name="index.css" crc="10263429" ref="index"/>
-    <file name="iefonts_index.css" crc="4114548526" ref="index"/>
+    <file name="index.css" crc="465887509" ref="index"/>
+    <file name="iefonts_index.css" crc="3768202381" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
@@ -20,8 +20,6 @@
     <file name="noun_205097_cc_poster_.png" crc="4008920450" ref="index"/>
     <file name="noun_113413_cc-1.svg" crc="223385616" ref="index"/>
     <file name="noun_113413_cc-1_poster_.png" crc="152227772" ref="index"/>
-    <file name="screenshot2-crop-u439.png" crc="4195386175" ref="index"/>
-    <file name="screenshot2-crop-u439_2x.png" crc="4078779178" ref="index"/>
     <file name="screenshot2.png" crc="3891332499" ref="index"/>
     <file name="screenshot2_2x.png" crc="4018796261" ref="index"/>
     <file name="noun_410845_cc.svg" crc="125081245" ref="index"/>
@@ -32,6 +30,8 @@
     <file name="headshot-u364-fr.jpg" crc="4073651279" ref="index"/>
     <file name="headshot-u364-fr_2x.jpg" crc="4060276937" ref="index"/>
     <file name="kaya-u357-fr.jpg" crc="1911540" ref="index"/>
+    <file name="screenshot22.png" crc="4162137270" ref="index"/>
+    <file name="screenshot2_2x2.png" crc="192758032" ref="index"/>
   </folder>
-  <file name="index.html" crc="3945303442" mt="1464800274642" redirect="true"/>
+  <file name="index.html" crc="58828451" mt="1464833023480" redirect="true"/>
 </manifest>
